@@ -28,6 +28,8 @@ Summarise your task, goals, approach, and final outcome. What was the intent of 
 
 ### What sources or references have you identified as relevant to this task?
 
+- ClickUp breakdown video used, easier to understand the features of the app as can follow along visually 
+
 Reflect on the **type** and **relevance** of sources explored. Justify your research direction in relation to the task brief and target outcomes.
 
 * What types of sources did you explore and why?
@@ -51,6 +53,10 @@ You may include both **academic resources** and **industry examples** (e.g. docu
 ## Implementation *(Approx. 30–40% of word count)*
 
 ### What was your development process and how did decisions evolve?
+
+I made a Figma and a Clickup to start the project off so we could be organised from the start. I sent these out to everyone on the project and started collecting the tasks that was needed to be completed by the developers to add them into it. I also set up the social media accounts and linked them to Metricool so we could have an automated posting schedule to help keep it consistent and more time efficient. I also made a ten week milestone document on MilaNote so everyone could see a breakdown on when things needed to be finished by and the cut off point for adding extra things to the game. 
+
+I then decided to make a resource portal using Git pages to host it and coded this in HTML. This was so that all of the important links sent out would be found in one clear place with descriptions explaining the links and also the discord bots in the server to prevent any confusion amongst everyone. I also added who made those files so people had a clear point of contact if again they had any questions or concerns. 
 
 Describe your technical and creative approach, including:
 
