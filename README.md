@@ -54,9 +54,17 @@ You may include both **academic resources** and **industry examples** (e.g. docu
 
 ### What was your development process and how did decisions evolve?
 
-I made a Figma and a Clickup to start the project off so we could be organised from the start. I sent these out to everyone on the project and started collecting the tasks that was needed to be completed by the developers to add them into it. I also set up the social media accounts and linked them to Metricool so we could have an automated posting schedule to help keep it consistent and more time efficient. I also made a ten week milestone document on MilaNote so everyone could see a breakdown on when things needed to be finished by and the cut off point for adding extra things to the game. 
+I made a Figma and a Clickup to start the project off so we could be organised from the start. I sent these out to everyone on the project and started collecting the tasks that was needed to be completed by the developers to add them into it.
+
+ I also set up the social media accounts and linked them to Metricool so we could have an automated posting schedule to help keep it consistent and more time efficient. I was in charge of running the social media so I gathered a group of people to do voice overs for the content, people to edit the content and artists to provide me sketches,concept art and logos for the social media too. 
+ 
+ I also made a ten week milestone document on MilaNote so everyone could see a breakdown on when things needed to be finished by and the cut off point for adding extra things to the game. 
 
 I then decided to make a resource portal using Git pages to host it and coded this in HTML. This was so that all of the important links sent out would be found in one clear place with descriptions explaining the links and also the discord bots in the server to prevent any confusion amongst everyone. I also added who made those files so people had a clear point of contact if again they had any questions or concerns. 
+
+I worked on making a social facing website after getting more comfortable with using Git pages so we could promote our game online.I took the time to research into game websites so I could take some inspiration from them and see how professional websites are laid out. This really helped me decide on how I wanted to lay out the website and what content I wanted to be on there. 
+
+
 
 Describe your technical and creative approach, including:
 
