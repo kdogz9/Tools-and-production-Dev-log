@@ -64,6 +64,7 @@ I then decided to make a resource portal using Git pages to host it and coded th
 
 I worked on making a social facing website after getting more comfortable with using Git pages so we could promote our game online.I took the time to research into game websites so I could take some inspiration from them and see how professional websites are laid out. This really helped me decide on how I wanted to lay out the website and what content I wanted to be on there. 
 
+I also set up the steam page and used the artwork given to me by the artists to put them in the relevant areas needed for our page. I had to have some extra input from the designers to know what to put for the description etc and set up the information needed for the system requirements and controller compatibility before sending it off to be reviewed by valve. 
 
 
 Describe your technical and creative approach, including:
