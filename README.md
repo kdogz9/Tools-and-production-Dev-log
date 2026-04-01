@@ -20,9 +20,7 @@
 
 ## Abstract *(Approx. 5–10% of word count)*
 
-For this project, I explored utilising social media automation tools, discord bots, creating a resource portal, social facing website and the steam page. The intent of my work was to gain as many potential wishlisters whilst helping maintain a clear workflow between the team. 
-
-Summarise your task, goals, approach, and final outcome. What was the intent of your work? What is the most important thing to know before reading on?
+For this project, I focused on developing the public-facing and organisational side of the game by working on social media automation tools, Discord bots, a resource portal, a social-facing website, and the Steam page. The main goal of this work was to help the project reach as many potential wishlisters as possible, while also improving communication and keeping the team’s workflow clear and organised. My approach combined technical setup with creative presentation, as I had to think about both how these platforms functioned and how they represented the game to different audiences. This meant balancing promotion, accessibility, and team organisation across several different systems. The most important thing is that my role was not only about creating online content, but also about building the structures that supported how the game was presented publicly and how information was shared internally. Overall, the final outcome was a more professional and connected project presence, with tools in place to support both audience engagement and team workflow.
 
 ---
 
@@ -35,12 +33,6 @@ For this task, I focused mainly on practical and industry-based sources rather t
 I avoided sources that were too general, overly academic, or not directly connected to my work. For example, a broad academic article on digital marketing or user engagement may have been interesting, but it would not have helped as much with the website I needed to make. I also avoided relying only on one type of source. A video alone can simplify a process, though it may miss detail, while documentation is more precise but can be harder to follow without a visual guide. Using both together gave me a clearer understanding. 
 
 Overall, my research direction related closely to the user experience, technical setup, and creative aims of the project, because it helped me think about how players would first encounter the game through its store page, website, and social media presence.
-
-Reflect on the **type** and **relevance** of sources explored. Justify your research direction in relation to the task brief and target outcomes.
-
-* What types of sources did you explore and why?
-* Which types of sources did you avoid and why?
-* How does the research relate to the user experience, technical approach, or creative aim?
 
 ### Sources
 
@@ -206,14 +198,6 @@ I also took responsibility for setting up the Steam page, which meant combining 
 **Figure 18.** *Description on the steam page*
 
 Alongside the creative side, I also had to prepare the technical information needed for the page, including the system requirements and controller compatibility. This process helped me explore a new workflow, as I had to understand how Steam’s publishing system works and what information is required before a page can be submitted. It also involved iteration, since the page had to be reviewed carefully before being sent to Valve, making sure both the written and visual content were accurate, complete, and suitable for public release.
-
-
-Describe your technical and creative approach, including:
-
-* Planning, ideation, and iteration
-* Feedback received and how it was integrated
-* New tools, workflows, or systems explored
-
 
 ### What creative or technical methods did you try?
 
