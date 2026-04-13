@@ -178,6 +178,22 @@ I created a resource portal using GitHub Pages and coded it in HTML so that all 
 
 This approach combined practical planning with user-focused design. Technically, it allowed me to practise building and hosting a simple HTML website, while creatively it made me think about clarity, accessibility, and how information should be organised for other users. The portal also reflects iteration and problem-solving, since it was created in response to the need for a clearer system for sharing resources. Overall, it was useful not only as a technical exercise in web development, but also as a way of improving communication and organisation within the project.
 
+```
+ <h2>Figma</h2>
+            
+            <p><b>Figma acts as an online whiteboard where you can put all of your research into.</b></p>
+
+            <ul>
+                <li>It is a collaborative software which allows everyone invited to work on the whiteboard and also see all of the added content by other team memebers. </li>
+                <li>This documentation is very important to keep up to date with as everyone can be kept in the loop in terms of artists research, design concepts and mechanics. </li>
+
+                <a href="https://www.figma.com/board/btIq1Pcu5Dng1nUzpth2tR/Greedy-piggies?node-id=0-1&t=jSloNTIRrPyvE3Uk-1"> Link to Figma board !</a>
+            </ul>
+        </section>
+```
+
+**Figure 16.** *Code snippet of HTML used*
+
 #### Social facing website 
 After becoming more confident with GitHub Pages, I also created a social-facing website to help promote the game online. This website had a different purpose from the resource portal, as it was aimed at a public audience rather than the internal team. Because of this, I had to think more carefully about presentation, branding, and how the site would create a strong first impression. Before starting, I researched existing game websites so I could take inspiration from how professional sites are structured and what kinds of content they include. This research helped me decide how I wanted to lay out my own site, what information to prioritise, and how to present the game in a way that felt more polished and engaging.
 
@@ -188,14 +204,34 @@ After becoming more confident with GitHub Pages, I also created a social-facing 
 
 This process involved both planning and creative development. The research stage informed my early ideas, while the design and build stage allowed me to apply those ideas in a more practical way. It also introduced a different workflow from the resource portal, since this site was more focused on audience appeal and visual identity. In this sense, the project helped me explore not only the technical side of creating and hosting a website, but also the creative side of communicating a game to potential players. Overall, building the social-facing website helped me develop a better understanding of how web design can support promotion, branding, and user engagement.
 
+```
+    <a href="index.html" class="logo">GREEDY PIGGIES 🐷</a>
+    
+    <input type="checkbox" id="menu-toggle" class="menu-toggle">
+    <label for="menu-toggle" class="hamburger">
+        <span></span>
+        <span></span>
+        <span></span>
+    </label>
+
+    <div class="nav-links">
+        <a href="trailer.html">Trailer</a>
+        <a href="about.html">About Us</a>
+         <a href="lore.html">Lore</a>
+        <a href="community.html" class="btn-nav">Join Discord</a>
+    </div>
+</nav>
+```
+**Figure 17.** *Code snippet of HTML used*
+
 #### Steam page 
 I also took responsibility for setting up the Steam page, which meant combining both technical setup and creative presentation. I used the artwork provided by the artists and placed it in the correct sections of the page so that the visual identity of the game was clear and consistent. This required planning and coordination with other team members, as I needed extra input from the designers to help shape the written description and make sure the page communicated the game clearly. 
 
 ![alt text](image-14.png)
-**Figure 17.** *Artwork on steam page.*
+**Figure 18.** *Artwork on steam page.*
 
 ![alt text](image-15.png)
-**Figure 18.** *Description on the steam page*
+**Figure 19.** *Description on the steam page*
 
 Alongside the creative side, I also had to prepare the technical information needed for the page, including the system requirements and controller compatibility. This process helped me explore a new workflow, as I had to understand how Steam’s publishing system works and what information is required before a page can be submitted. It also involved iteration, since the page had to be reviewed carefully before being sent to Valve, making sure both the written and visual content were accurate, complete, and suitable for public release.
 
@@ -235,7 +271,7 @@ I also tested the effectiveness of the social media strategy through performance
 | **Total Comments** | 1 |
 | **Average Watch Time** | 40.2s |
 
-**Figure 19** *Key performance indicators from the anayltical report*
+**Figure 20** *Key performance indicators from the anayltical report*
 
 
 ---
@@ -253,6 +289,7 @@ What stood out most was how useful these websites became for two very different 
 If I were to do this project again, one of the main things I would change is how I introduced and encouraged the use of the organisational tools, especially ClickUp, the Figma board, and the resource portal. While these systems were set up with the intention of improving communication and organisation, they were not always used to their full potential. The Figma board in particular became less active over time, even though it was designed to be a shared space for visual research, inspiration, and collaboration. I think part of the reason for this was that it was introduced as a useful tool, but not fully embedded into the team’s regular workflow. The same issue applied to the resource portal, which worked well as a clear and organised space for links and information, but was not always used consistently once people already had access to resources elsewhere.
 
 Next time I would create the resource portal at the start of the project rather than later on, and I would ask people to send important links directly to me for the portal instead of sharing them in multiple places first. I think this would make the portal more necessary and more likely to be used, because it would become the main access point rather than an extra option. I would also put more emphasis on encouraging regular use of ClickUp and Figma by linking them more clearly to project updates, feedback, and weekly progress. Overall, these tools did not fail completely, though they would have been more effective if they had been introduced earlier and used more consistently as part of the team’s workflow.
+
 ---
 
 ## Bibliography
@@ -285,19 +322,13 @@ Quickstart for GitHub Pages (s.d.) At: https://docs-internal.github.com/en/pages
 
 ## Declared Assets
 
-You must declare any content that was **not entirely created by you**, or was **modified with the aid of AI tools**. This includes:
+> The following assets were created or modified with the use of Gemini:
+> * Social facing website 
+> * Resource portal 
 
-* Third-party 3D models, audio, textures, or code
-* Code snippets from tutorials or forums
-* AI-generated or AI-assisted assets (e.g. ChatGPT, GitHub Copilot, DALL·E)
-
-List these clearly, with context where needed.
-
-Example:
 
 > The following assets were created or modified with the use of GPT-4o:
->
-> * 
+> * Devlopment log 
 
 ---
 
