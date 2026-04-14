@@ -133,6 +133,7 @@ I set up ClickUp to help with planning, task organisation, and keeping track of 
 **Figure 8.** *Workspaces I made on the ClickUp for each course to keep it organised and less overwhelming* 
 
 ![](ClickUp-GIF.gif)
+
 **Figure 9.** *Example of weekly tasks and the status of them. Includes the due dates and shows how they were completed within the time frame set, making sure the team is on track. Developers were the strongest in keeping this up to date, the other courses had to be constantly reminded so it was less effective for them.*
 
 Using these systems helped improve communication, made collaboration more efficient, and introduced a more professional workflow for managing both the creative and technical side of the project.
