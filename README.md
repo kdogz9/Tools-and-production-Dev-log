@@ -8,13 +8,13 @@
 
 **Total Word Count:** \[XXXX]
 
-**API Reference Link:** \[URL]
+**API Reference Link:** \[URL] - jsdoc api 
 
-**User Guide Link:** \[URL]
+**User Guide Link:** \[URL] - on how to use jsdoc api 
 
-**Build Link:** \[URL or Embed]
+**Build Link:** \[URL or Embed] - steam page 
 
-**Video Demonstration Link:** \[URL or Embed]
+**Video Demonstration Link:** \[URL or Embed] - trailer
 
 ---
 
@@ -255,23 +255,38 @@ I also had a problem with the Discord server link expiring from time to time, wh
 
 I carried out both peer testing and user testing during this stage of the project to check how effective the website and social media strategy were. For the website, my main goal was to test mobile compatibility and make sure the layout was clear and easy to use on smaller screens. To do this, I asked several people to open the website on their phones and give feedback on how it looked and functioned. From this testing, I learned that the main issue was the hamburger menu, as the different sections were placed too close together and were harder to use on mobile. I used this feedback to adjust the spacing and improve accessibility. Aside from that, the feedback was positive, with users saying that the website was laid out clearly and flowed well. This testing helped improve the final result by making the site more user-friendly and ensuring that it worked better across devices.
 
-I also tested the effectiveness of the social media strategy through performance analysis. After noticing that follower growth and interaction had started to slow down, I created an analytical report to review the posts we had uploaded and identify which types of content were performing best. My goal was to understand what was gaining the most engagement and what could be improved. From this, I observed clear differences in how posts performed, especially in terms of views and interaction, which gave me a better understanding of what content was most effective for the audience. As a result, we focused more on creating and posting similar types of content to help improve engagement. The report also suggested a daily posting schedule, which I reviewed and tested against the other findings, though I decided not to follow it because it was less useful than the engagement data itself. This process influenced the final result by helping me make more informed decisions based on evidence rather than guesswork.
+I also tested the effectiveness of the social media strategy through performance analysis. After noticing that follower growth and interaction had started to slow down, I created an analytical report to review the posts we had uploaded and identify which types of content were performing best. My goal was to understand what was gaining the most engagement and what could be improved. From this, I observed clear differences in how posts performed, especially in terms of views and interaction, which gave me a better understanding of what content was most effective for the audience.
+
+![](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%206/Metricool%20analysis/reach_vs_engagement.png)
+**Figure 20** *Reach vs engagement from the anaylitical report*
+
+From this graph I can tell that posts with higher reach did not always generate the highest engagement, suggesting that visibility alone was not the key factor in audience interaction. Instead, content that was more targeted or relatable to the audience tended to produce a higher engagement rate, even if it reached fewer users overall.
+As a result, we focused more on creating and posting similar types of content to help improve engagement. 
+
+![](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%206/Metricool%20analysis/engagement_breakdown.png)
+**Figure 21** *Engagement breakdown by post from the anaylitical report*
+
+The engagement breakdown also showed that interaction was not evenly distributed across posts. A small number of posts accounted for a large proportion of total engagement, indicating that certain content types were significantly more effective than others. These high-performing posts often shared similar characteristics, such as clear visuals, concise messaging, or alignment with trends, which suggests that consistency in style and format plays an important role in audience response.
+
+Another key observation from the dataset was the variation in engagement depending on posting timing and frequency. While the suggested daily posting schedule aimed to maximise visibility, the data implied that posting more frequently did not necessarily lead to better engagement. In some cases, fewer but more carefully designed posts performed better, reinforcing the idea that quality was more important than quantity.
+
+Overall, the dataset provided valuable insights into audience behaviour, demonstrating that engagement was driven more by content relevance and quality than by reach or posting frequency. Although the report suggested a daily posting schedule, this was reviewed against the findings and ultimately not followed, as it proved less useful than the engagement data itself. This approach allowed for more informed, evidence-based decisions, contributing to a more effective and targeted social media strategy.
 
 | Metric | Value |
 |---|---|
-| **Total Posts Analyzed** | 5 |
-| **Average Reach** | 192 |
-| **Peak Reach** | 401 |
+| **Total Posts Analyzed** | 27 |
+| **Average Reach** | 372 |
+| **Peak Reach** | 794 |
 | **Average Impressions** | 370 |
-| **Average Engagement Rate** | 23.48% |
+| **Average Engagement Rate** | 4.35% |
 | **Peak Engagement Rate** | 40.86% |
-| **Total Likes** | 189 |
-| **Total Saves** | 121 |
-| **Total Shares** | 66 |
-| **Total Comments** | 1 |
-| **Average Watch Time** | 40.2s |
+| **Total Likes** | 570 |
+| **Total Saves** | 121.0 |
+| **Total Shares** | 66.0 |
+| **Total Comments** | 1.0 |
+| **Average Watch Time** | 7.4s |
 
-**Figure 20** *Key performance indicators from the anayltical report*
+**Figure 22** *Key performance indicators from the anayltical report*
 
 
 ---
@@ -329,7 +344,7 @@ Quickstart for GitHub Pages (s.d.) At: https://docs-internal.github.com/en/pages
 
 
 > The following assets were created or modified with the use of GPT-4o:
-> * Devlopment log 
+> * Development log
 
 ---
 
