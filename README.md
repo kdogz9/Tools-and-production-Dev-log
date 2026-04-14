@@ -45,7 +45,7 @@ This video was a breakdown explaining how to use ClickUp and its main features (
 - I used the video to understand the platform in a more visual and accessible way.
 - I found it useful to follow along with the actions being performed, rather than only reading about them.
 
-![alt text](image-1.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Dev-log/refs/heads/main/image-1.png)
 **Figure 1.**  *By watching the video I learnt that you could add new views onto the ClickUp workspace. I added all of the relevant ones to each section such as a doc for meeting notes,a calendar to track everyones deadlines, a trello board so anyone who is used to that interface could view it that style and a whiteboard for people familiar with Figma's interface.*
 
 Overall, this source was useful because it made the software easier to understand quickly. Its main strength was clarity and accessibility. However, its limitation is that a video tutorial can sometimes simplify things or skip over deeper detail, especially if it focuses on one workflow rather than showing all available options. For that reason, it worked best as an introductory and practical source rather than a complete technical reference.
@@ -80,7 +80,7 @@ Loftia’s Instagram (Loftia ☁️ (@loftia.gg) • Instagram photos and videos
 - I paid attention to audience engagement to see which posts seemed to perform well.
 - I used it as inspiration for how to structure and style greedy piggies social media presence.
 
-![alt text](image-2.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Dev-log/refs/heads/main/image-2.png)
 **Figure 3.** *Loftia's Instagram page. Since they have quite a big following on Instagram and they're indie, I thought their account would be good to take inspiration from. I based the social media art assets that I asked for off of this too*
 
 This source was useful because it provided a real-world example of social media strategy in practice. Its strength was that it showed audience response directly, which made it more immediate than reading general advice. Its limitation is that social media performance can be affected by many factors, so one account cannot be treated as a universal formula. Even so, it was highly relevant for creative inspiration and for understanding how a game can present itself consistently across platforms.
@@ -94,10 +94,10 @@ The websites for games such as Hotline Miami (Dennaton, s.d.) and Curve projects
 - I used them as inspiration for how to present my own website more clearly.
 - I paid attention to how they supported branding and first impressions.
 
-![alt text](image-3.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Dev-log/refs/heads/main/image-3.png)
 **Figure 4.** *I took inspiration from Curves website in terms of the different sections of the website having headings on the top right corner and the home button at the left side. I preferred there being seperate pages for each subject rather than having a website full on information on the same page.*
 
-![alt text](image-4.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Dev-log/refs/heads/main/image-4.png)
 **Figure 5.** *For the Hotline Miami website, I took more inspiration from what content they had on their page rather than from the layout since I preferred Curve's layout*
 
 These sources were useful because they showed finished examples of professional practice rather than abstract advice. Their main strength was that they demonstrated how a website can function as both an information source and a branding tool. Their limitation is that they show final outcomes rather than explaining the process behind design choices, so they are more useful for inspiration and comparison than for technical instruction. Even so, they were relevant because they helped shape my understanding of what a polished, user-facing website should look like.
@@ -111,7 +111,7 @@ The Steamworks documentation (Store Page Written Description (Steamworks Documen
 - I used it to understand details that are often not fully explained in short video tutorials.
 - I referred to it for clearer information on what is expected by the platform.
 
-![alt text](image-5.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Dev-log/refs/heads/main/image-5.png)
 **Figure 6.** *I looked at the store page description on the steamworks documentation as I needed more clarification on what to include for the steampage. This also helped me understand what I needed to ask the designers help for with what they needed to write for the required sections*
 
 This source was highly useful because it provided accurate and detailed guidance. Its biggest strength was reliability, since it comes from the official publisher of the platform. Its limitation is that documentation can be harder to engage with than a video, especially when learning something for the first time, because it is more text-heavy and less guided. Even so, it was essential for making sure my understanding was correct and complete.
@@ -123,12 +123,12 @@ This source was highly useful because it provided accurate and detailed guidance
 ### Figma and ClickUp
 At the start of the project, I focused on building a clear and organised workflow so the team had a strong structure from the beginning. To do this, I created both a Figma board and a ClickUp workspace. The Figma board was used mainly as a shared visual space where the artists could upload research, reference images, and inspiration for the project. This helped establish the artistic direction early on and made it easier for the rest of the team to understand the visual style we were aiming for. It also supported collaboration, because everyone could view, discuss, and respond to the material in one place rather than working separately.
 
-![alt text](image-6.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Dev-log/refs/heads/main/image-6.png)
 **Figure 7.** *Figma board with some artist research and important links to relevant documents*
 
 I set up ClickUp to help with planning, task organisation, and keeping track of progress across the project. This gave the team a clearer system for managing work, deadlines, and responsibilities, which made the workflow more structured from the start. I chose to use ClickUp for this project over Trello as it allows you to mark tasks as different priorities and it sends emails out when a task is overdue or if a task status has been updated. You can also add subtasks as well which helps oragnise bigger tasks. The different views also allows me to integreate Trello and Figma in one software so it creating a seperate Trello and Figma for each course would be unecessary. 
 
-![alt text](image.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Dev-log/refs/heads/main/image.png)
 
 **Figure 8.** *Workspaces I made on the ClickUp for each course to keep it organised and less overwhelming* 
 
@@ -142,7 +142,7 @@ Using these systems helped improve communication, made collaboration more effici
 I set up the project’s social media accounts and connected them to Metricool (Metricool, s.d.) so that posts could be scheduled in advance and published automatically. This helped create a more consistent online presence across platforms, while also making the process more time efficient for me. Using Metricool meant that content could be planned ahead rather than uploaded manually each time, which made it easier to keep posting regular updates and maintain audience engagement. It also supported a more organised workflow, as scheduling posts in advance reduced last-minute pressure and allowed the social media strategy to be managed in a more structured and professional way. I was also able to track both Instagrams (Instagram, s.d.) and Tik Toks (TikTok (@tiktok) | TikTok, s.d.) analytics in this software which meant I could generate a report later on and I didnt have to go through each app individually.
 
 
-![alt text](image-8.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Dev-log/refs/heads/main/image-8.png)
 **Figure 10.** *Screenshot of some of the posts I had scheduled on Metricool*
 
 I gathered a group of people to do voice overs for the content, people to edit the content and artists to provide me sketches,concept art and logos for the social media too. I made a social media content planner on ClickUp to help organise all of the content needed and the art assets. 
@@ -150,19 +150,19 @@ I gathered a group of people to do voice overs for the content, people to edit t
 ![alt text](SocialMediaClickUp-GIF.gif)
 **Figure 11.** *Social media content planner on ClickUp. All types of posts were organised into catergories such as "single photos" or "short videos". This helped create ideas for for photo content as well as video content so we could post a range of content.*
 
-![alt text](image-10.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Dev-log/refs/heads/main/image-10.png)
 **Figure 12.** *Social media art asset list sent to the social media art team.*
 
 ### Discord bot 
  I used a Discord bot (YouTube, TikTok, Twitch and Kick.com Notifications on Discord!, s.d.) to support the project’s public-facing communication. The bot was set up to send an automatic notification in our public Discord server every time we uploaded a new TikTok post. This helped create a stronger link between our social media and community spaces, as it meant that followers in the Discord server were immediately updated when new content was posted. It also made the process more efficient, because updates did not need to be shared manually each time. From a workflow perspective, this introduced a simple automated system that helped improve consistency, save time, and keep the community more connected to the project’s ongoing activity.
 
- ![alt text](image-11.png)
+ ![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Dev-log/refs/heads/main/image-11.png)
  **Figure 13.** *Greedy Piggies Tik Tok page set up in the NotifyMe bot.*
 
  ### Milanote
 I created a ten-week milestone document in Milanote (Milanote - the tool for organizing creative projects, s.d.) so the team had a clear breakdown of what needed to be completed and by when. This helped set out key deadlines across the project and made expectations more visible for everyone involved. An important part of this document was identifying the cut-off point for adding extra features, which helped keep the scope realistic and prevented the project from expanding too far late in development. From a planning perspective, this supported a more structured workflow by giving the team a shared timeline to work from, while also helping with time management and prioritisation. It was useful both as an organisational tool and as a way of keeping the project focused on achievable goals.
 
-![alt text](image-12.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Dev-log/refs/heads/main/image-12.png)
 **Figure 14.** *Ten week roadmap oragnised in each course and the main content needed from each course.*
 
 ### Git pages - Resource portal and social facing website
@@ -227,10 +227,10 @@ This process involved both planning and creative development. The research stage
 #### Steam page 
 I also took responsibility for setting up the Steam page, which meant combining both technical setup and creative presentation. I used the artwork provided by the artists and placed it in the correct sections of the page so that the visual identity of the game was clear and consistent. This required planning and coordination with other team members, as I needed extra input from the designers to help shape the written description and make sure the page communicated the game clearly. 
 
-![alt text](image-14.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Dev-log/refs/heads/main/image-14.png)
 **Figure 18.** *Artwork on steam page.*
 
-![alt text](image-15.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Dev-log/refs/heads/main/image-15.png)
 **Figure 19.** *Description on the steam page*
 
 Alongside the creative side, I also had to prepare the technical information needed for the page, including the system requirements and controller compatibility. This process helped me explore a new workflow, as I had to understand how Steam’s publishing system works and what information is required before a page can be submitted. It also involved iteration, since the page had to be reviewed carefully before being sent to Valve, making sure both the written and visual content were accurate, complete, and suitable for public release.
@@ -333,11 +333,4 @@ Quickstart for GitHub Pages (s.d.) At: https://docs-internal.github.com/en/pages
 
 ---
 
-## Tips for Success
-
-* Use plenty of **images, code snippets, drawn diagrams, tables and embedded media** to support your writing.
-* Use **inline citations** for everything that influenced your work, including software and games. Include as many **hyperlinks** as possible for easier navigation to external sources.
-* Reference **documentation, tutorials**, and **games** just like academic sources.
-* Word count is a guideline – ±10% is allowed.
-* You are allowed to use AI tools, but you **must declare** them under *Declared Assets*. 
 
