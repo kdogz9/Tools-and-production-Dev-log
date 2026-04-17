@@ -132,7 +132,7 @@ I set up ClickUp to help with planning, task organisation, and keeping track of 
 
 **Figure 8.** *Workspaces I made on the ClickUp for each course to keep it organised and less overwhelming* 
 
-![](ClickUp-GIF.gif)
+![](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Dev-log/refs/heads/main/ClickUp-GIF.gif)
 
 **Figure 9.** *Example of weekly tasks and the status of them. Includes the due dates and shows how they were completed within the time frame set, making sure the team is on track. Developers were the strongest in keeping this up to date, the other courses had to be constantly reminded so it was less effective for them.*
 
@@ -148,7 +148,7 @@ I set up the project’s social media accounts and connected them to Metricool (
 
 I gathered a group of people to do voice overs for the content, people to edit the content and artists to provide me sketches,concept art and logos for the social media too. I made a social media content planner on ClickUp to help organise all of the content needed and the art assets. 
 
-![alt text](SocialMediaClickUp-GIF.gif)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Dev-log/refs/heads/main/SocialMediaClickUp-GIF.gif)
 **Figure 11.** *Social media content planner on ClickUp. All types of posts were organised into catergories such as "single photos" or "short videos". This helped create ideas for for photo content as well as video content so we could post a range of content.*
 
 ![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Dev-log/refs/heads/main/image-10.png)
@@ -174,7 +174,7 @@ GitHub Pages gave me a simple way to host both the internal resource portal and 
 #### Resource portal 
 I created a resource portal using GitHub Pages and coded it in HTML so that all of the important links for the project could be stored in one clear and accessible place. The main aim of this portal was to reduce confusion by giving the team a single location for shared resources, rather than having links and information spread across different messages or platforms. To make the portal more useful, I added short descriptions explaining what each link was for, as well as information about the Discord bots in the server so that everyone could understand their purpose and how they were being used. I also included the names of the people who had created certain files, which gave the team a clear point of contact if they had questions or needed support.
 
-![ ](Resourceportal-GIF.gif)
+![ ](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Dev-log/refs/heads/main/Resourceportal-GIF.gif)
 **Figure 15.** *Overview of the resource portal.*
 
 This approach combined practical planning with user-focused design. Technically, it allowed me to practise building and hosting a simple HTML website, while creatively it made me think about clarity, accessibility, and how information should be organised for other users. The portal also reflects iteration and problem-solving, since it was created in response to the need for a clearer system for sharing resources. Overall, it was useful not only as a technical exercise in web development, but also as a way of improving communication and organisation within the project.
