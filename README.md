@@ -12,7 +12,7 @@
 
 **User Guide Link:** \[URL] - on how to use jsdoc api 
 
-**Build Link:** \[URL or Embed] - steam page 
+**Build Link:** https://store.steampowered.com/app/4463930/Greedy_Piggies/
 
 **Video Demonstration Link:** \[URL or Embed] - trailer
 
@@ -198,7 +198,7 @@ This approach combined practical planning with user-focused design. Technically,
 #### Social facing website 
 After becoming more confident with GitHub Pages, I also created a social-facing website to help promote the game online. This website had a different purpose from the resource portal, as it was aimed at a public audience rather than the internal team. Because of this, I had to think more carefully about presentation, branding, and how the site would create a strong first impression. Before starting, I researched existing game websites so I could take inspiration from how professional sites are structured and what kinds of content they include. This research helped me decide how I wanted to lay out my own site, what information to prioritise, and how to present the game in a way that felt more polished and engaging.
 
-![alt text](Website-GIF.gif)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Dev-log/refs/heads/main/Website-GIF.gif)
 **Figure 16.** *GIF of social facing website* 
 
 **Link to website** https://kdogz9.github.io/playgreedypiggies/index.html
