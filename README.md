@@ -338,7 +338,7 @@ Quickstart for GitHub Pages (s.d.) At: https://docs-internal.github.com/en/pages
 
 ## Declared Assets
 
-> The following assets were created or modified with the use of Gemini:
+> The following assets were created or modified with the use of Gemini 3 Flash:
 > * Social facing website 
 > * Resource portal 
 > * Social media anyalsis report
