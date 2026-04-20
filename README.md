@@ -18,13 +18,13 @@
 
 ---
 
-## Abstract *(Approx. 5–10% of word count)*
+## Abstract 
 
 For this project, I focused on developing the public-facing and organisational side of the game by working on social media automation tools, Discord bots, a resource portal, a social-facing website, and the Steam page. The main goal of this work was to help the project reach as many potential wishlisters as possible, while also improving communication and keeping the team’s workflow clear and organised. My approach combined technical setup with creative presentation, as I had to think about both how these platforms functioned and how they represented the game to different audiences. This meant balancing promotion, accessibility, and team organisation across several different systems. The most important thing is that my role was not only about creating online content, but also about building the structures that supported how the game was presented publicly and how information was shared internally. Overall, the final outcome was a more professional and connected project presence, with tools in place to support both audience engagement and team workflow.
 
 ---
 
-## Research *(Approx. 20-30% of word count)*
+## Research 
 
 ### What sources or references have you identified as relevant to this task?
 
@@ -118,7 +118,7 @@ This source was highly useful because it provided accurate and detailed guidance
 
 ---
 
-## Implementation *(Approx. 30–40% of word count)*
+## Implementation 
 
 ### Figma and ClickUp
 At the start of the project, I focused on building a clear and organised workflow so the team had a strong structure from the beginning. To do this, I created both a Figma board and a ClickUp workspace. The Figma board was used mainly as a shared visual space where the artists could upload research, reference images, and inspiration for the project. This helped establish the artistic direction early on and made it easier for the rest of the team to understand the visual style we were aiming for. It also supported collaboration, because everyone could view, discuss, and respond to the material in one place rather than working separately.
@@ -259,7 +259,7 @@ I also had a problem with the Discord server link expiring from time to time, wh
 
 ---
 
-## Testing *(Approx. 10–15% of word count)*
+## Testing 
 
 ### What testing methods did you use?
 
@@ -301,7 +301,7 @@ Overall, the dataset provided valuable insights into audience behaviour, demonst
 
 ---
 
-## Critical Reflection *(Approx. 10–15% of word count)*
+## Critical Reflection 
 
 ### What went well?
 
