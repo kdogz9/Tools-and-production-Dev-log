@@ -236,6 +236,15 @@ I also took responsibility for setting up the Steam page, which meant combining 
 
 Alongside the creative side, I also had to prepare the technical information needed for the page, including the system requirements and controller compatibility. This process helped me explore a new workflow, as I had to understand how Steam’s publishing system works and what information is required before a page can be submitted. It also involved iteration, since the page had to be reviewed carefully before being sent to Valve, making sure both the written and visual content were accurate, complete, and suitable for public release.
 
+### Mermaid 
+
+I used Mermaid (Mermaid, s.d.) as a documentation tool to support my write-ups by visually mapping each project’s process, structure, and outcomes in a clear way. My development process began by identifying which parts of each task would benefit most from diagramming, such as workflows, system structure, implementation steps, and problem–solution paths, and then planning simple flowcharts that matched the written explanations without repeating too much detail. As I iterated, I refined the diagrams to better suit the layout of the write-ups by shortening labels, reducing the number of nodes, and changing the flow so they appeared more compact and easier to read on the page. 
+
+![alt text](image-16.png)
+**Figure 20** *Mermaid overview*
+
+Feedback played an important role in this process, particularly around the diagrams being too large, too long, or visually awkward, so I adjusted the structure to make them smaller, more balanced, and more appropriate for academic presentation. Through this, I explored Mermaid as a new tool for documentation, alongside a workflow of drafting a diagram, reviewing how well it fit the write-up, and revising it until it supported the explanation more effectively.
+
 ### What creative or technical methods did you try?
 
 Using a Discord bot from Notify Me was a new method for me, and at first I expected it to be more difficult to set up. However, the process was much more straightforward than I had anticipated because the information needed was clearly structured and easy to follow. The setup used simple fields and boxes to fill in, which made the process feel accessible even though it was unfamiliar to me. Once everything had been entered, the bot worked straight away, so the method was successful and did not require a lot of trial and error.
@@ -259,13 +268,13 @@ I carried out both peer testing and user testing during this stage of the projec
 I also tested the effectiveness of the social media strategy through performance analysis. After noticing that follower growth and interaction had started to slow down, I created an analytical report to review the posts we had uploaded and identify which types of content were performing best. My goal was to understand what was gaining the most engagement and what could be improved. From this, I observed clear differences in how posts performed, especially in terms of views and interaction, which gave me a better understanding of what content was most effective for the audience.
 
 ![](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%206/Metricool%20analysis/reach_vs_engagement.png)
-**Figure 20** *Reach vs engagement from the anaylitical report*
+**Figure 21** *Reach vs engagement from the anaylitical report*
 
 From this graph I can tell that posts with higher reach did not always generate the highest engagement, suggesting that visibility alone was not the key factor in audience interaction. Instead, content that was more targeted or relatable to the audience tended to produce a higher engagement rate, even if it reached fewer users overall.
 As a result, we focused more on creating and posting similar types of content to help improve engagement. 
 
 ![](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Tasks/refs/heads/main/Task%206/Metricool%20analysis/engagement_breakdown.png)
-**Figure 21** *Engagement breakdown by post from the anaylitical report*
+**Figure 22** *Engagement breakdown by post from the anaylitical report*
 
 The engagement breakdown also showed that interaction was not evenly distributed across posts. A small number of posts accounted for a large proportion of total engagement, indicating that certain content types were significantly more effective than others. These high-performing posts often shared similar characteristics, such as clear visuals, concise messaging, or alignment with trends, which suggests that consistency in style and format plays an important role in audience response.
 
@@ -287,7 +296,7 @@ Overall, the dataset provided valuable insights into audience behaviour, demonst
 | **Total Comments** | 1.0 |
 | **Average Watch Time** | 7.4s |
 
-**Figure 22** *Key performance indicators from the anayltical report*
+**Figure 23** *Key performance indicators from the anayltical report*
 
 
 ---
@@ -334,6 +343,9 @@ Milanote - the tool for organizing creative projects (s.d.) At: https://milanote
 
 Quickstart for GitHub Pages (s.d.) At: https://docs-internal.github.com/en/pages/quickstart (Accessed  13/02/2026).
 
+Mermaid (s.d.) At: https://mermaid.js.org (Accessed  20/04/2026).
+
+
 ---
 
 ## Declared Assets
@@ -346,6 +358,7 @@ Quickstart for GitHub Pages (s.d.) At: https://docs-internal.github.com/en/pages
 
 > The following assets were created or modified with the use of GPT-4o:
 > * Development log
+> * Mermaid
 
 ---
 
