@@ -6,7 +6,7 @@
 
 **Student ID:**  2401317
 
-**Total Word Count:** \[XXXX]
+**Total Word Count:** 5,500
 
 **API Reference Link:** https://ucreative-my.sharepoint.com/:f:/g/personal/2401317_students_ucreative_ac_uk/IgAOUClJHLBvQbWiQ9PsgZp7AVShnsJvwkhpcJvIR8Hqg4I?e=ftDZGI
 
