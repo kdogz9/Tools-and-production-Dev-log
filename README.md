@@ -240,7 +240,7 @@ Alongside the creative side, I also had to prepare the technical information nee
 
 I used Mermaid (Mermaid, s.d.) as a documentation tool to support my write-ups by visually mapping each project’s process, structure, and outcomes in a clear way. My development process began by identifying which parts of each task would benefit most from diagramming, such as workflows, system structure, implementation steps, and problem–solution paths, and then planning simple flowcharts that matched the written explanations without repeating too much detail. As I iterated, I refined the diagrams to better suit the layout of the write-ups by shortening labels, reducing the number of nodes, and changing the flow so they appeared more compact and easier to read on the page. 
 
-![alt text](image-16.png)
+![alt text](https://raw.githubusercontent.com/kdogz9/Tools-and-production-Dev-log/refs/heads/main/image-16.png)
 **Figure 20** *Mermaid overview*
 
 Feedback played an important role in this process, particularly around the diagrams being too large, too long, or visually awkward, so I adjusted the structure to make them smaller, more balanced, and more appropriate for academic presentation. Through this, I explored Mermaid as a new tool for documentation, alongside a workflow of drafting a diagram, reviewing how well it fit the write-up, and revising it until it supported the explanation more effectively.
