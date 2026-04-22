@@ -10,7 +10,7 @@
 
 **API Reference Link:** https://ucreative-my.sharepoint.com/:f:/g/personal/2401317_students_ucreative_ac_uk/IgAOUClJHLBvQbWiQ9PsgZp7AVShnsJvwkhpcJvIR8Hqg4I?e=ftDZGI
 
-**User Guide Link:** \[URL] - on how to use jsdoc api 
+**User Guide Link:** https://github.com/kdogz9/UserGuides 
 
 **Build Link:** https://store.steampowered.com/app/4463930/Greedy_Piggies/
 
