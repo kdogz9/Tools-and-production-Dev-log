@@ -14,7 +14,7 @@
 
 **Build Link:** https://store.steampowered.com/app/4463930/Greedy_Piggies/
 
-**Video Demonstration Link:** \[URL or Embed] - trailer
+**Video Demonstration Link:** https://youtu.be/xL_6EHmDNys
 
 ---
 
